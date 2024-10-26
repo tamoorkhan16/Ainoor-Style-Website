@@ -4,21 +4,21 @@ import ProductCard from "./ProductCard";
 const products = [
     {
       image: "/Images/Leather/Coats/c1.jpeg",
-      title: "Product 1",
+      title: "Delighted Chimp Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c2.jpeg",
-      title: "Product 1",
+      title: "Orion Grey Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c3.jpeg",
-      title: "Product 1",
+      title: "Dark Wood Grain Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
@@ -26,49 +26,49 @@ const products = [
        
     {
       image: "/Images/Leather/Coats/c5.jpeg",
-      title: "Product 1",
+      title: "Dark Danger Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c6.jpeg",
-      title: "Product 1",
+      title: "Monks Robe Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c7.jpeg",
-      title: "Product 1",
+      title: "Black Lacquer Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c8.jpeg",
-      title: "Product 1",
+      title: "Carnaby Tan Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c9.jpeg",
-      title: "Product 1",
+      title: "Gluon Grey Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c10.jpeg",
-      title: "Product 1",
+      title: "Shoe Wax Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    
        
     {
       image: "/Images/Leather/Coats/c11.jpeg",
-      title: "Product 1",
+      title: "Raven Black Leather Coat",
       sizes: ["S", "M", "L", "XL"],
       colors: ["#000000", "#ffffff", "#0000FF"],
     },    

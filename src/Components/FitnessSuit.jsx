@@ -4,98 +4,98 @@ import ProductCard from "./ProductCard";
 const products = [
   {
     image: "/Images/Mens/FitnessSuit/f1.jpeg",
-    title: "Product 1",
+    title: "Titan Flex Performance Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f2.jpeg",
-    title: "Product 1",
+    title: "Green & Black FlowFit Performance",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f3.jpeg",
-    title: "Product 1",
+    title: " Green TempoRush Fitwear",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
-  {
-    image: "/Images/Mens/FitnessSuit/f4.jpeg",
-    title: "Product 1",
-    sizes: ["S", "M", "L", "XL"],
-    colors: ["#000000", "#ffffff", "#0000FF"],
-  },
+  // {
+  //   image: "/Images/Mens/FitnessSuit/f4.jpeg",
+  //   title: "Product 1",
+  //   sizes: ["S", "M", "L", "XL"],
+  //   colors: ["#000000", "#ffffff", "#0000FF"],
+  // },
   
-  {
-    image: "/Images/Mens/FitnessSuit/f5.jpeg",
-    title: "Product 1",
-    sizes: ["S", "M", "L", "XL"],
-    colors: ["#000000", "#ffffff", "#0000FF"],
-  },
+  // {
+  //   image: "/Images/Mens/FitnessSuit/f5.jpeg",
+  //   title: "Product 1",
+  //   sizes: ["S", "M", "L", "XL"],
+  //   colors: ["#000000", "#ffffff", "#0000FF"],
+  // },
   
   {
     image: "/Images/Mens/FitnessSuit/f6.jpeg",
-    title: "Product 1",
+    title: "Cartoon Animated Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f7.jpeg",
-    title: "Product 1",
+    title: "Dragon Animated Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f8.jpeg",
-    title: "Product 1",
+    title: "Dragon Animated Black Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f9.jpeg",
-    title: "Product 1",
+    title: "Dragon Animated Red Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f10.jpeg",
-    title: "Product 1",
+    title: "White Dragon Animated Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
   {
     image: "/Images/Mens/FitnessSuit/f11.jpeg",
-    title: "Product 1",
+    title: "Smart Black Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   
-  {
-    image: "/Images/Mens/FitnessSuit/f12.jpeg",
-    title: "Product 1",
-    sizes: ["S", "M", "L", "XL"],
-    colors: ["#000000", "#ffffff", "#0000FF"],
-  },
+  // {
+  //   image: "/Images/Mens/FitnessSuit/f12.jpeg",
+  //   title: "Product 1",
+  //   sizes: ["S", "M", "L", "XL"],
+  //   colors: ["#000000", "#ffffff", "#0000FF"],
+  // },
   
-  {
-    image: "/Images/Mens/FitnessSuit/f13.jpeg",
-    title: "Product 1",
-    sizes: ["S", "M", "L", "XL"],
-    colors: ["#000000", "#ffffff", "#0000FF"],
-  },
+  // {
+  //   image: "/Images/Mens/FitnessSuit/f13.jpeg",
+  //   title: "Product 1",
+  //   sizes: ["S", "M", "L", "XL"],
+  //   colors: ["#000000", "#ffffff", "#0000FF"],
+  // },
   
   {
     image: "/Images/Mens/FitnessSuit/f14.jpeg",
-    title: "Product 1",
+    title: "Colorful Dragon Animated Fitness Suit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },

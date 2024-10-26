@@ -1,88 +1,88 @@
 import React from 'react'
-import ProductCard from "./ProductCard";
+import ProductCard2 from './ProductCard2';
 
 const products = [
   {
     image: "/Images/Women/TrackSuits/wts1.jpg",
-    title: "Product 1",
+    title: "Dark Green TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts2.jpg",
-    title: "Product 1",
+    title: "Pink TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts3.jpg",
-    title: "Product 1",
+    title: "Velvet Pink TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts4.jpg",
-    title: "Product 1",
+    title: "Lavendar TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts5.jpg",
-    title: "Product 1",
+    title: "Black TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts6.jpg",
-    title: "Product 1",
+    title: "Purple TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts7.jpg",
-    title: "Product 1",
+    title: "Light Pink TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts8.jpg",
-    title: "Product 1",
+    title: "Olive Drab TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts9.jpg",
-    title: "Product 1",
+    title: "Blue TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts10.jpg",
-    title: "Product 1",
-    sizes: ["S", "M", "L", "XL"],
-    colors: ["#000000", "#ffffff", "#0000FF"],
-  },
-  {
-    image: "/Images/Women/TrackSuits/wts11.jpg",
-    title: "Product 1",
+    title: "Pink TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts12.jpg",
-    title: "Product 1",
+    title: "Maroon TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts13.jpg",
-    title: "Product 1",
+    title: "Pink TrackSuit",
+    sizes: ["S", "M", "L", "XL"],
+    colors: ["#000000", "#ffffff", "#0000FF"],
+  },
+  {
+    image: "/Images/Women/TrackSuits/wts11.jpg",
+    title: "Maroon & White TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
   {
     image: "/Images/Women/TrackSuits/wts14.jpg",
-    title: "Product 1",
+    title: "Mulberry TrackSuit",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
@@ -95,9 +95,9 @@ function Women_TrackSuits() {
     <>
          <div className="outer_product_container">
         <h2>TrackSuits</h2>
-        <div className="product_container">
+        <div className="product_container ">
           {products.map((item, index) => (
-            <ProductCard key={index} product={item} />
+            <ProductCard2 key={index} product={item} />
           ))}
         </div>
       </div>

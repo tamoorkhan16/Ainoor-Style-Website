@@ -4,63 +4,63 @@ import ProductCard from "./ProductCard";
 const products = [
   {
     image: "/Images/Accessories/Gloves/g1.png",
-    title: "Product 1",
+    title: "Black FrostGuard Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g2.png",
-    title: "Product 1",
+    title: "Black Winter Luxe Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g3.png",
-    title: "Product 1",
+    title: "Brown Pure Grip Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g4.png",
-    title: "Product 1",
+    title: "Yellow FrostGuard Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g5.png",
-    title: "Product 1",
+    title: "Black Fleece & Flex Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g6.png",
-    title: "Product 1",
+    title: "Black Warm Embrace Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g7.png",
-    title: "Product 1",
+    title: "Black Feather Lite Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g8.png",
-    title: "Product 1",
+    title: "Yellow Feather Lite Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },
 
   {
     image: "/Images/Accessories/Gloves/g9.png",
-    title: "Product 1",
+    title: "Skin FrostGuard Gloves",
     sizes: ["S", "M", "L", "XL"],
     colors: ["#000000", "#ffffff", "#0000FF"],
   },

@@ -937,11 +937,27 @@ form .fa-envelope:before {
   text-align: center;
 }
 
+.product-card2{
+
+  width: 300px;
+  padding: 80px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .image-container {
   position: relative;
   overflow: hidden;
   width: 100%;
   height: 200px;
+}
+
+
+.image-container2{
+  height: 400px;
+  width: 90%;
 }
 
 .product-image {
@@ -2341,3 +2357,5 @@ header {
 .menu {
   margin-top: 40px;
 }
+
+
